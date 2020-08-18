@@ -1,0 +1,14 @@
+﻿  main.cpp
+  roster.cpp
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(61,24): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(68,24): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(194,24): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(217,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(256,23): warning C4018: '<': signed/unsigned mismatch
+C:\_Scripting-Applications\StudentRoster\StudentRoster\roster.cpp(335,23): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  StudentRoster.vcxproj -> C:\_Scripting-Applications\StudentRoster\Debug\StudentRoster.exe
