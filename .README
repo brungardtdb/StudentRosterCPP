@@ -1,0 +1,10 @@
+This application was mostly to help me learn more about C++, I was very new
+to the language and before this I had never used header files or pointers in
+an application before. This is a console app that takes a constant array of strings
+as input and uses the string values to populate a roster for students at a college.
+Some of the requirements for the roster program (among others) were to use an array of
+pointers to populate the roster of students, have a method that checks for invalid emails
+and prints them out, to print the students based on their major, to print out the
+average days in a course for the students, and last but not least, to add and remove
+students. C# is my native tongue, so this project definitely helped me understand
+C++ and some of the differences between the two languages much better!
